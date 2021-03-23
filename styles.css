@@ -93,8 +93,8 @@ footer {
 
 .logout-btn {
   cursor: pointer;
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   font-size: 13px;
   background-color: #87ceff;
   color: blue;

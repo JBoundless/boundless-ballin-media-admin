@@ -93,6 +93,11 @@ footer {
 
 .logout-btn {
   cursor: pointer;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-size: 13px;
+  background-color: #87ceff;
+  color: blue;
 }
 .social {
   justify-content: space-between;
